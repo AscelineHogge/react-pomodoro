@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AscelineHogge/react-pomodoro2.git"
+    "url": "git+https://github.com/AscelineHogge/react-pomodoro.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AscelineHogge/react-pomodoro2/issues"
+    "url": "https://github.com/AscelineHogge/react-pomodoro/issues"
   },
-  "homepage": "https://github.com/AscelineHogge/react-pomodoro2#readme",
+  "homepage": "https://github.com/AscelineHogge/react-pomodoro#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
   },

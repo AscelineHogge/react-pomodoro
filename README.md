@@ -1,1 +1,3 @@
-# react-pomodoro2
+# react-pomodoro
+
+### My kryptonite is Javascript
