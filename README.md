@@ -15,12 +15,12 @@ This is a project carried out as part of the "Junior Web Developer" training in 
 * Everything with a JS library like React.JS or Svelte or a JS framework like Vue.JS or Angular
 
 ## Instructions :
-https://github.com/becodeorg/LIE-Jepsen-4.27/tree/master/03-the-mountain/02-react/02-weather-app
+https://github.com/becodeorg/LIE-Jepsen-4.27/tree/master/03-the-mountain/02-react/01-pomodoro
 
 ## Languages uses.
 React.JS, HTML & Sass
 
 ## Project links.
-Web Github: https://github.com/AscelineHogge/weather-app
+Web Github: https://github.com/AscelineHogge/react-pomodoro
 
 Web link: https://priceless-wing-56b44e.netlify.app/
